@@ -28,7 +28,8 @@ server.db = router.db;
 server.use(auth);
 
 // Use default router
-server.use("/api", router);
+server.use(router);
+// server.use("/api", router);
 
 const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
