@@ -4,7 +4,11 @@
       "email": "Hoan.hoang@asnet.com.vn",
       "password": "$2a$10$IbZqVsZFJ06kSvEmyPPx5.VcprpnH3o2n4TbGBx1EsXMH4G.tHbl2",
       "createdAt": 1713854911365,
-      "id": 1
+      "id": 1,
+      "userName": "Hoan Hoang",
+      "fullName": "Hoang Minh Hoan",
+      "phone": "0339472742",
+      "bio": "Agility"
     }
   ],
   "topics": [
