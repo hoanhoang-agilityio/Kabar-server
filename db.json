@@ -153,7 +153,9 @@
       "title": "Architectural Engineering Wonders of the modern era for your Inspiration",
       "image": "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["TECHNOLOGY"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Mario Sanchez"
     },
     {
       "id": 2,
@@ -161,7 +163,9 @@
       "title": "5 Effective Brain Recharging Activities No One is Talking About",
       "image": "https://images.unsplash.com/photo-1599374172490-a77288fb7d94?q=80&w=2448&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Joshua Wood"
     },
     {
       "id": 3,
@@ -169,7 +173,9 @@
       "title": "14 Architectural Design Ideas for a Spacious Interior",
       "image": "https://images.unsplash.com/photo-1599374172490-a77288fb7d94?q=80&w=2448&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["DESIGN", "LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     },
     {
       "id": 4,
@@ -177,7 +183,9 @@
       "title": "Every Next Level of Your Life Will Demand a Different You",
       "image": "https://images.unsplash.com/photo-1616593918824-4fef16054381?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["PERSONAL GROWTH", "LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     },
     {
       "id": 5,
@@ -185,7 +193,9 @@
       "title": "This Bread Pudding Will Give You All the Fall Feels",
       "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["TRAVEL"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     },
     {
       "id": 6,
@@ -193,7 +203,9 @@
       "title": "5 Effective Brain Recharging Activities No One is Talking About",
       "image": "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Joshua Wood"
     },
     {
       "id": 7,
@@ -201,7 +213,9 @@
       "title": "14 Architectural Design Ideas for a Spacious Interior",
       "image": "https://images.unsplash.com/photo-1599374172490-a77288fb7d94?q=80&w=2448&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["DESIGN", "LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     },
     {
       "id": 8,
@@ -209,7 +223,9 @@
       "title": "Architectural Engineering Wonders of the modern era for your Inspiration",
       "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["TECHNOLOGY"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Mario Sanchez"
     },
     {
       "id": 9,
@@ -217,7 +233,9 @@
       "title": "5 Effective Brain Recharging Activities No One is Talking About",
       "image": "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Joshua Wood"
     },
     {
       "id": 10,
@@ -225,7 +243,9 @@
       "title": "5 Effective Brain Recharging Activities No One is Talking About",
       "image": "https://images.unsplash.com/photo-1616593918824-4fef16054381?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Joshua Wood"
     },
     {
       "id": 11,
@@ -233,7 +253,9 @@
       "title": "Every Next Level of Your Life Will Demand a Different You",
       "image": "https://images.unsplash.com/photo-1616593918824-4fef16054381?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["PERSONAL GROWTH", "LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     },
     {
       "id": 12,
@@ -241,7 +263,9 @@
       "title": "This Bread Pudding Will Give You All the Fall Feels",
       "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["TRAVEL"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     },
     {
       "id": 13,
@@ -249,7 +273,9 @@
       "title": "14 Architectural Design Ideas for a Spacious Interior",
       "image": "https://images.unsplash.com/photo-1599374172490-a77288fb7d94?q=80&w=2448&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["DESIGN", "LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     },
     {
       "id": 14,
@@ -257,7 +283,9 @@
       "title": "Architectural Engineering Wonders of the modern era for your Inspiration",
       "image": "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["TECHNOLOGY"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Mario Sanchez"
     },
     {
       "id": 15,
@@ -265,7 +293,9 @@
       "title": "10 Simple Practices That Will Help You Get 1% Better Every Dayn",
       "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": ["LIFESTYLE"],
-      "createdAt": "2024-04-02T07:57:24.624Z"
+      "createdAt": "2024-04-02T07:57:24.624Z",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorName": "Erika Oliver"
     }
   ]
 }
