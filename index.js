@@ -23,6 +23,17 @@ server.use((req, res, next) => {
   next();
 });
 
+// Custom route for querying array elements
+server.get("/posts", (req, res) => {
+  const db = router.db; // lowdb instance
+  const category = req.query.category;
+  const posts = db
+    .get("posts")
+    .filter((post) => post.category.includes(category))
+    .value();
+  res.json(posts);
+});
+
 server.db = router.db;
 
 server.use(auth);
