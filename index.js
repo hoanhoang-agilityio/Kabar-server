@@ -27,11 +27,19 @@ server.use((req, res, next) => {
 server.get("/posts", (req, res) => {
   const db = router.db; // lowdb instance
   const category = req.query.category;
-  const posts = db
-    .get("posts")
-    .filter((post) => post.category.includes(category))
-    .value();
-  res.json(posts);
+
+  if (category) {
+    // Filter posts by category if category query param is present
+    const posts = db
+      .get("posts")
+      .filter((post) => post.category.includes(category))
+      .value();
+    res.json(posts);
+  } else {
+    // Return all posts if no category query param
+    const posts = db.get("posts").value();
+    res.json(posts);
+  }
 });
 
 server.db = router.db;
