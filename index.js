@@ -28,7 +28,7 @@ server.get("/posts", (req, res) => {
   const db = router.db; // lowdb instance
   const category = req.query.category;
   const page = parseInt(req.query._page, 10) || 1;
-  const limit = parseInt(req.query._limit, 6) || 6;
+  const limit = parseInt(req.query._limit, 15) || 6;
 
   let posts = db.get("posts");
 
