@@ -23,32 +23,6 @@ server.use((req, res, next) => {
   next();
 });
 
-// Custom route for querying array elements
-server.get("/posts", (req, res) => {
-  const db = router.db; // lowdb instance
-  const category = req.query.category;
-  const page = parseInt(req.query._page, 10) || 1;
-  const limit = parseInt(req.query._limit, 15) || 6;
-
-  let posts = db.get("posts");
-
-  if (category) {
-    posts = posts.filter((post) => post.category.includes(category));
-  }
-
-  // Paginate posts
-  const start = (page - 1) * limit;
-  const end = start + limit;
-  const paginatedPosts = posts.slice(start, end).value();
-
-  // Set headers for pagination
-  const total = posts.size().value();
-  res.setHeader("X-Total-Count", total);
-  res.setHeader("X-Total-Pages", Math.ceil(total / limit));
-
-  res.json(paginatedPosts);
-});
-
 server.db = router.db;
 
 server.use(auth);
